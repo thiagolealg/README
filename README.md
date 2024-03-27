@@ -20,6 +20,5 @@
 - [Projeto 2](link_do_projeto)
 
 ## Contato
-- 📧 Email: seuemail@example.com
+- 📧 Email: thiagogomesleal@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- 🐦 [Twitter](https://twitter.com/seu_usuario)
