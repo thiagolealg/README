@@ -1,4 +1,4 @@
-# Olá, eu sou [Thiago]! 👋
+# Olá, eu sou Thiago! 👋
 
 ## Sobre Mim
 🎓 Estudante de Ciência de Dados na faculdade Centro de Ensino Superior do Distrito Federal.<br>
@@ -14,11 +14,3 @@
 ![](https://img.shields.io/badge/Libraries-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
-
-## Projetos
-- [Projeto 1](link_do_projeto)
-- [Projeto 2](link_do_projeto)
-
-## Contato
-- 📧 Email: thiagogomesleal@hotmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
